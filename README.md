@@ -20,12 +20,12 @@
 
 ### 💼 Meus Projetos
 
-🔸### 🏦 [Sistema de Conta Bancária](https://github.com/lenilson853/conta-_bancaria)  
+🔸🏦 [Sistema de Conta Bancária](https://github.com/lenilson853/conta-_bancaria)  
 🛠 Tecnologias: Python  
 📝 Descrição: Simulação de conta bancária com funcionalidades de saque, depósito, saldo, limite e histórico de transações.
 
 
-🔸 **[Jogo do Número Secreto](https://github.com/lenilson853/jogo-numero-secreto)**  
+🔸 **[Jogo do Número Secreto](https://github.com/lenilson853/jogo_de_numero_secreto)**  
 🔹 Tecnologias: JavaScript puro  
 🎮 Descrição: Jogo simples com número aleatório e tentativas limitadas.
 
