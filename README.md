@@ -21,7 +21,7 @@
 ### 💼 Meus Projetos
 
 
-### 📞 [Atendimento de Operadora](https://github.com/lenilson853/atendimento-operadora)  
+### 📞 [Atendimento de Operadora] (https://github.com/lenilson853/atendimento-operadora)  
 🛠 Tecnologias: Python  
 📝 Descrição: Sistema que simula um atendimento automatizado de operadora, com menus interativos e respostas condicionais.
 
