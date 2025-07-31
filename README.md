@@ -20,9 +20,10 @@
 
 ### 💼 Meus Projetos
 
-🔸 **[Site da Lanchonete](https://lenilson-lanchonete.vercel.app)**  
-🔹 Tecnologias: HTML, CSS, JavaScript  
-📋 Descrição: Site com cardápio interativo, carrinho de compras e checkout.
+🔸### 🏦 [Sistema de Conta Bancária](https://github.com/lenilson853/sistema-conta-bancaria)  
+🛠 Tecnologias: Python  
+📝 Descrição: Simulação de conta bancária com funcionalidades de saque, depósito, saldo, limite e histórico de transações.
+
 
 🔸 **[Jogo do Número Secreto](https://github.com/lenilson853/jogo-numero-secreto)**  
 🔹 Tecnologias: JavaScript puro  
