@@ -20,7 +20,7 @@
 
 ### 💼 Meus Projetos
 
-🔸### 🏦 [Sistema de Conta Bancária](https://github.com/lenilson853/sistema-conta-bancaria)  
+🔸### 🏦 [Sistema de Conta Bancária](https://github.com/lenilson853/conta-_bancaria)  
 🛠 Tecnologias: Python  
 📝 Descrição: Simulação de conta bancária com funcionalidades de saque, depósito, saldo, limite e histórico de transações.
 
