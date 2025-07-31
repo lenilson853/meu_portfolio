@@ -25,4 +25,25 @@
 📋 Descrição: Site com cardápio interativo, carrinho de compras e checkout.
 
 🔸 **[Jogo do Número Secreto](https://github.com/lenilson853/jogo-numero-secreto)**  
-🔹
+🔹 Tecnologias: JavaScript puro  
+🎮 Descrição: Jogo simples com número aleatório e tentativas limitadas.
+
+---
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lenilson853&show_icons=true&theme=radical&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenilson853&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenilson-jose/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenylson.nascimento@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lenilson853)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+
